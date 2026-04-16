@@ -1,3 +1,5 @@
+# Peer: 20232041백한별, 20212647이승준
+
 # 현재 Code:
 '''
 is_valid(board, row, col, num)
